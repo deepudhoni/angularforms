@@ -11,7 +11,7 @@ import { FormGroup, FormControl, Validators } from '@angular/forms';
 export class AppComponent {
   myform: FormGroup;
   status:boolean;
-  console.log( "feature1");
+  
   
   check: boolean=false
   ptn="[0-9]*"
